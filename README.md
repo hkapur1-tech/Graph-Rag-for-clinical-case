@@ -35,7 +35,7 @@ no cost.
 | `hybrid_graphrag_results.csv` | MedQA Hybrid GraphRAG, 96.2% |
 | `pathvqa_results.csv` | PathVQA baseline / GraphRAG / hybrid (one file, three columns) |
 | `pathvqa_rag_results.csv` | PathVQA Flat-Vector RAG, 70.4% |
-| `baseline_medqa_nothinking.csv` | mismatched-settings control, 94.7% — **not a reported result** |
+| `baseline_medqa_nothinking.csv` | Control experiment with mismatched decoding settings, 94.7% — **not used in the main results** |
 
 Each row is one test question. `is_correct` is the boolean used by McNemar's test.
 
