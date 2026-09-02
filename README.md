@@ -105,5 +105,4 @@ graphrag_clinical_qa.ipynb        experiments, analysis, figures
 README.md
 results/                          per-question outputs of every reported run
 graphs/                           pre-built knowledge graphs (LLM-extracted only)
-figures/                          figures as they appear in the paper
 ```
