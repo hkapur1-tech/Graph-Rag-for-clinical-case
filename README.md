@@ -33,7 +33,7 @@ no cost.
 | `rag_opus5_results.csv` | MedQA Flat-Vector RAG, 96.5% |
 | `graphrag_opus5_results.csv` | MedQA Static GraphRAG, 95.8% |
 | `hybrid_graphrag_results.csv` | MedQA Hybrid GraphRAG, 96.2% |
-| `pathvqa_results.csv` | PathVQA baseline / GraphRAG / hybrid (one file, three columns) |
+| `pathvqa_results.csv` | PathVQA baseline / Static GraphRAG / Hybrid GraphRAG (one file, three columns) |
 | `pathvqa_rag_results.csv` | PathVQA Flat-Vector RAG, 70.4% |
 | `baseline_medqa_nothinking.csv` | Control experiment with mismatched decoding settings, 94.7% — **not used in the main results** |
 
